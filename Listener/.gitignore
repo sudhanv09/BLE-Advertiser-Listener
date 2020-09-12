@@ -1,0 +1,5 @@
+BUILD/
+img/
+mbed-os/
+.mbed
+.idea/
