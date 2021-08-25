@@ -1,5 +1,3 @@
-# NTUT-Rover-Mbed
-
 This project showcases use of BLE Advertiser/Listener. We are using it to control elevator buttons by broadcasting through smartphones, the building and floor numbers.
 
 STM32Wb microcontroller is used to listen to broadcast signals. 
